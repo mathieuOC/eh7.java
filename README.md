@@ -1,0 +1,1 @@
+il est très même certain que je ne sais pas ce que je fais avec les commit aussi je ne comprend pas exactement comment le keyboard marche sur intel alors même si le code resemeble bizare et ne fonctione pas ça devrait marcher? je crois au moins
